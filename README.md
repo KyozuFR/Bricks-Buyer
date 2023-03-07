@@ -1,6 +1,6 @@
 # Bricks-Buyer                 
 Solves the problem of "bricks.co" project openings at a defined time. With this you can put your investment orders a few hours in advance. (currently only available in French)                       
-***Script made several years ago, there are a lot of things to improve here but I am aware of them. This will be fixed shortly.***                  
+***Script made several years ago, there are a lot of things to improve here but I am aware of them. This will be fixed soon.***                  
 
 ## requirement                     
 install [python](https://www.python.org/downloads/)                          
